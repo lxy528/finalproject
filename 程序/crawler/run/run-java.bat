@@ -1,0 +1,1 @@
+java -jar -Xmx512m gist-crawler.jar 2 https://gist.github.com/search?l=java&q=&page=1 2

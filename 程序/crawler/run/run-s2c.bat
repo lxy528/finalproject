@@ -1,0 +1,1 @@
+java -jar -Xmx512m s2c-crawler.jar 1 http://www.snip2code.com/Snippet/997
